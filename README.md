@@ -1,9 +1,11 @@
 # Ein-Agenten-basiertes-Modell-fuer-die-Photovoltaik-Installation-und-den-Bezug-von-Oekostrom-durch-Privathaushalte in Deutschland
-Das ABM wurde in der gleichnamigen Bachelorarbeit entwickelt und dient insbesondere zur geographisch aufgelösten Modellierung des PV-Ausbaus bei Privathaushalten.
+Das ABM wurde in der gleichnamigen Bachelorarbeit entwickelt und dient insbesondere zur geographisch aufgelösten Modellierung des PV-Ausbaus und der Martkdiffusion von Ökostrom bei Privathaushalten.
 
-In das Modell gehen sowohl diverse Daten aus verschiedensten Quellen ein als auch Ergebnisse aus dem BENCHv.2 Modell von Leila Niamir (2019) und dem zugehörigen Paper von Niamir et al. (2018). Bei der Initialisierung der Agenten, die Privathaushalte repräsentieren werden verfügbare Daten zum Einkommen, Immobilienbesitz und der örtlichen Globalstrahlung jeweils auf Landkreisebene berücksichtigt. Im Anschluss an eine Modellkalibrierung simuliert das Modell den Ausbau von PV bei Privathaushalten bis 2050 unter Berücksichtigung verschiedener Szenarien.
+In das Modell gehen sowohl diverse Daten aus verschiedensten Quellen als auch Ergebnisse aus dem BENCHv.2 Modell von Leila Niamir (2019) und dem zugehörigen Paper von Niamir et al. (2018) ein. Bei der Initialisierung der Agenten, die Privathaushalte repräsentieren, werden verfügbare Daten zum Einkommen, Immobilienbesitz und der örtlichen Globalstrahlung jeweils auf Landkreisebene berücksichtigt. Im Anschluss an eine Modellkalibrierung simuliert das Modell den Ausbau von PV bei Privathaushalten bis 2050 unter Berücksichtigung verschiedener Szenarien.
 
 Das Modell wurde in NetLogo (Version 6.2.1) geschrieben und benötigt für eine Simulation etwa 5-10 Minuten. Dabei können verschiedene Szenarien bzgl. der Förderung sowie der Entwicklung der Investitionskosten eingestellt werden.
+
+Im Repository befinden sich neben dem NetLogo Modell zwei BehaviorSearch Dateien, die für die Kalibrierung verwendet wurden und zwei CSV Dateien - eine zum Eigenverbrauchsanteil und eine für die Szenarien.
 
 
 
