@@ -5,15 +5,10 @@ In das Modell gehen sowohl diverse Daten aus verschiedensten Quellen als auch Er
 
 Das Modell wurde in NetLogo (Version 6.2.1) geschrieben und benötigt für eine Simulation etwa 5-10 Minuten. Dabei können verschiedene Szenarien bzgl. der Förderung sowie der Entwicklung der Investitionskosten eingestellt werden.
 
-<object data="https://github.com/JonKir/Ein-Agenten-basiertes-Modell-fuer-die-Photovoltaik-Installation-und-den-Bezug-von-Oekostrom/files/8338962/Ergebnisse_PV.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/JonKir/Ein-Agenten-basiertes-Modell-fuer-die-Photovoltaik-Installation-und-den-Bezug-von-Oekostrom/files/8338962/Ergebnisse_PV.pdf">
-        <p>This browser does not support PDF. Please download the PDF to view it: <a href="https://github.com/JonKir/Ein-Agenten-basiertes-Modell-fuer-die-Photovoltaik-Installation-und-den-Bezug-von-Oekostrom/files/8338962/Ergebnisse_PV.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<img src="https://user-images.githubusercontent.com/77612325/159860246-79c3acf8-acc1-4b43-b812-9d980fbbeed9.png" height="300" width="300" >
 
-[Ergebnisse_PV.pdf](https://github.com/JonKir/Ein-Agenten-basiertes-Modell-fuer-die-Photovoltaik-Installation-und-den-Bezug-von-Oekostrom/files/8338962/Ergebnisse_PV.pdf)
 
-[Karte_Solar.pdf](https://github.com/JonKir/Ein-Agenten-basiertes-Modell-fuer-die-Photovoltaik-Installation-und-den-Bezug-von-Oekostrom/files/8338971/Karte_Solar.pdf)
+<img src="https://user-images.githubusercontent.com/77612325/159858613-5bb2c7ad-7538-42ca-a0df-b34ea47da1cb.png" height="300" width="450" >
 
 
 Im Repository befinden sich neben dem NetLogo Modell zwei BehaviorSearch Dateien, die für die Kalibrierung verwendet wurden und zwei CSV Dateien - eine zum Eigenverbrauchsanteil und eine für die Szenarien.
