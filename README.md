@@ -5,7 +5,14 @@ In das Modell gehen sowohl diverse Daten aus verschiedensten Quellen als auch Er
 
 Das Modell wurde in NetLogo (Version 6.2.1) geschrieben und benötigt für eine Simulation etwa 5-10 Minuten. Dabei können verschiedene Szenarien bzgl. der Förderung sowie der Entwicklung der Investitionskosten eingestellt werden.
 
+[Ergebnisse_PV.pdf](https://github.com/JonKir/Ein-Agenten-basiertes-Modell-fuer-die-Photovoltaik-Installation-und-den-Bezug-von-Oekostrom/files/8338962/Ergebnisse_PV.pdf)
+
+[Karte_Solar.pdf](https://github.com/JonKir/Ein-Agenten-basiertes-Modell-fuer-die-Photovoltaik-Installation-und-den-Bezug-von-Oekostrom/files/8338971/Karte_Solar.pdf)
+
+
 Im Repository befinden sich neben dem NetLogo Modell zwei BehaviorSearch Dateien, die für die Kalibrierung verwendet wurden und zwei CSV Dateien - eine zum Eigenverbrauchsanteil und eine für die Szenarien.
+
+
 
 ## Eine umfangreiche Modellbeschreibung befindet sich in der zugehörigen Bachelorarbeit
 Bei Interesse, kann diese vom Autor zur Verfügung gestellt werden. Mail: jonathan.kirchhoff@uni-wuppertal.de 
