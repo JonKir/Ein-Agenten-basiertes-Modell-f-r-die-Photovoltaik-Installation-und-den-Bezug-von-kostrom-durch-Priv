@@ -5,6 +5,12 @@ In das Modell gehen sowohl diverse Daten aus verschiedensten Quellen als auch Er
 
 Das Modell wurde in NetLogo (Version 6.2.1) geschrieben und benötigt für eine Simulation etwa 5-10 Minuten. Dabei können verschiedene Szenarien bzgl. der Förderung sowie der Entwicklung der Investitionskosten eingestellt werden.
 
+<object data="https://github.com/JonKir/Ein-Agenten-basiertes-Modell-fuer-die-Photovoltaik-Installation-und-den-Bezug-von-Oekostrom/files/8338962/Ergebnisse_PV.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/JonKir/Ein-Agenten-basiertes-Modell-fuer-die-Photovoltaik-Installation-und-den-Bezug-von-Oekostrom/files/8338962/Ergebnisse_PV.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/JonKir/Ein-Agenten-basiertes-Modell-fuer-die-Photovoltaik-Installation-und-den-Bezug-von-Oekostrom/files/8338962/Ergebnisse_PV.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 [Ergebnisse_PV.pdf](https://github.com/JonKir/Ein-Agenten-basiertes-Modell-fuer-die-Photovoltaik-Installation-und-den-Bezug-von-Oekostrom/files/8338962/Ergebnisse_PV.pdf)
 
 [Karte_Solar.pdf](https://github.com/JonKir/Ein-Agenten-basiertes-Modell-fuer-die-Photovoltaik-Installation-und-den-Bezug-von-Oekostrom/files/8338971/Karte_Solar.pdf)
