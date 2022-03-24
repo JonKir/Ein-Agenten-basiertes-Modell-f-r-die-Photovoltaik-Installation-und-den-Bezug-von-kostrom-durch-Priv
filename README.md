@@ -7,7 +7,7 @@ Das Modell wurde in NetLogo (Version 6.2.1) geschrieben und benötigt für eine 
 
 Im Repository befinden sich neben dem NetLogo Modell zwei BehaviorSearch Dateien, die für die Kalibrierung verwendet wurden und zwei CSV Dateien - eine zum Eigenverbrauchsanteil und eine für die Szenarien.
 
-## Eine umfangreiche Beschreibung des Modells befindet sich in der zugehörigen Bachelorarbeit
+## Eine umfangreiche Modellbeschreibung befindet sich in der zugehörigen Bachelorarbeit
 Bei Interesse, kann diese vom Autor zur Verfügung gestellt werden. Mail: jonathan.kirchhoff@uni-wuppertal.de 
 
 Niamir, L. (2019). BENCHv.2 model [Version 1.0.0]. CoMSES Computational Model
