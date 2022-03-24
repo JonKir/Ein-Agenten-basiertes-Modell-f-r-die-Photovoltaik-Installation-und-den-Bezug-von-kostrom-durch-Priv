@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<!DOCTYPE search SYSTEM "behaviorsearch.dtd">
+<search>
+<bsearchVersionNumber>1,10</bsearchVersionNumber>
+<modelInfo>
+<modelFile>C:\Users\jonat\OneDrive\Desktop\Abgabeordner\Modell\Modell v1.5.1.nlogo</modelFile>
+<modelSetupCommands>setup</modelSetupCommands>
+<modelStepCommands>go</modelStepCommands>
+<modelStopCondition/>
+<modelStepLimit>21</modelStepLimit>
+<modelMetricReporter>reststreuung</modelMetricReporter>
+<modelMeasureIf>true</modelMeasureIf>
+</modelInfo>
+<fitnessInfo>
+<fitnessMinimized>true</fitnessMinimized>
+<fitnessCollecting>AT_FINAL_STEP</fitnessCollecting>
+<fitnessSamplingReplications>5</fitnessSamplingReplications>
+<fitnessCombineReplications>MEAN</fitnessCombineReplications>
+</fitnessInfo>
+<searchSpace>
+<paramSpec>["Kalibrierung" true]</paramSpec>
+<paramSpec>["Datenexport" false]</paramSpec>
+<paramSpec>["Experimente" true]</paramSpec>
+<paramSpec>["Netzwerk" true]</paramSpec>
+<paramSpec>["Ma&#223;stab" 10000]</paramSpec>
+<paramSpec>["kalibrierung_schranke_pv" [0.3 0.01 0.7]]</paramSpec>
+<paramSpec>["kalibrierung_mieternutzen" [0.7 0.01 0.9]]</paramSpec>
+<paramSpec>["kalibrierung_netzwerkeinfluss_pv" [0 0.001 0.25]]</paramSpec>
+<paramSpec>["kalibrierung_netzwerkeinfluss_oeko"  [0 0.001 0.25]]</paramSpec>
+<paramSpec>["kalibrierung_mittlere_traegheit_oeko" [1 0.01 6]]</paramSpec>
+<paramSpec>["kalibrierung_mittlere_traegheit_pv" [1 0.01 6]]</paramSpec>
+<paramSpec>["kalibrierung_schwellenfaktor_oeko" [0.5 0.001 1.5]]</paramSpec>
+<paramSpec>["kalibrierung_schwellen" 0.2 0.01 0.8]</paramSpec>
+<paramSpec>["kalibrierung_veraenderung_attribute_pv" [0 0.01 0.2]]</paramSpec>
+<paramSpec>["kalibrierung_veraenderung_attribute_oeko" [0 0.01 0.2]]</paramSpec>
+<paramSpec>["Entscheidungsprozess" true]</paramSpec>
+<paramSpec>["Seed" 13]</paramSpec>
+<paramSpec>["kalibrierung_w_&#246;kon" 0.355]</paramSpec>
+<paramSpec>["kalibrierung_w_eink" 0.644]</paramSpec>
+</searchSpace>
+<searchMethod type="MutationHillClimber">
+<searchMethodParameter name="mutation-rate" value="0.1"/>
+<searchMethodParameter name="restart-after-stall-count" value="0"/>
+</searchMethod>
+<chromosomeRepresentation type="GrayBinaryChromosome"/>
+<caching>true</caching>
+<evaluationLimit>300</evaluationLimit>
+<bestCheckingNumReplications>0</bestCheckingNumReplications>
+</search>
