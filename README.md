@@ -127,4 +127,3 @@ Zinke, G. (2020). Lohnentwicklung in Deutschland und Europa. Bundeszentrale für
 politische Bildung. https://www.bpb.de/themen/arbeit/arbeitsmarktpolitik/
 322503/lohnentwicklung- in- deutschland- und- europa/. (Zuletzt abgerufen
 am: 12.03.2022)
-57
